@@ -19,7 +19,28 @@ class PostView(ViewSet):
     
   def list(self, request):
     
+    ## GET THE CATEGORY FROM THE REQUEST PARAMS
+    category = request.query_params.get('category', None)
+    ## GET THE AUTHOR FROM THE REQUEST PARAMS
+    author = request.query_params.get('author', None)
+    ## GET THE COUNTRY FROM THE REQUEST PARAMS
+    country = request.query_params.get('country', None)
+    ## GET THE REGION FROM THE REQUEST PARAMS
+    region = request.query_params.get('region', None)
+    
     posts = Post.objects.all()
+    
+    if category is not None:
+      posts = posts.filter(category=category)
+      
+    if author is not None:
+      posts = posts.filter(author=author)
+      
+    if country is not None:
+      posts = posts.filter(country=country)
+      
+    if region is not None:
+      posts = posts.filter(region=region)
     
     # GET THE TAGS FOR THE POSTS
     for post in posts:
