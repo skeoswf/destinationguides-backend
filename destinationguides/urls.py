@@ -17,10 +17,11 @@ from django.contrib import admin
 from django.urls import path
 from django.conf.urls import include
 from rest_framework import routers
-from destinationguidesapi import PostView
+from destinationguidesapi.views import PostView, RegionView
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'posts', PostView, 'post')
+router.register(r'regions', RegionView, 'region')
 
 urlpatterns = [
     path('admin/', admin.site.urls),

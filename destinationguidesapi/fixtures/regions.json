@@ -1,0 +1,72 @@
+[
+  {
+    "model": "destinationguesape.region",
+    "pk": 1,
+    "fields": {
+      "name": "Africa"
+    }
+  },
+  {
+    "model": "destinationguesape.region",
+    "pk": 2,
+    "fields": {
+      "name": "Antarctica"
+    }
+  },
+  {
+    "model": "destinationguesape.region",
+    "pk": 3,
+    "fields": {
+      "name": "Asia"
+    }
+  },
+  {
+    "model": "destinationguesape.region",
+    "pk": 4,
+    "fields": {
+      "name": "Australia & the Pacific"
+    }
+  },
+  {
+    "model": "destinationguesape.region",
+    "pk": 5,
+    "fields": {
+      "name": "Caribbean"
+    }
+  },
+  {
+    "model": "destinationguesape.region",
+    "pk": 6,
+    "fields": {
+      "name": "Central America"
+    }
+  },
+  {
+    "model": "destinationguesape.region",
+    "pk": 7,
+    "fields": {
+      "name": "Europe"
+    }
+  },
+  {
+    "model": "destinationguesape.region",
+    "pk": 8,
+    "fields": {
+      "name": "Middle East"
+    }
+  },
+  {
+    "model": "destinationguesape.region",
+    "pk": 9,
+    "fields": {
+      "name": "North America"
+    }
+  },
+  {
+    "model": "destinationguesape.region",
+    "pk": 10,
+    "fields": {
+      "name": "South America"
+    }
+  }
+]

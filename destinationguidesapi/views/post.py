@@ -102,10 +102,16 @@ class PostView(ViewSet):
     post.delete()
     return Response(None, status=status.HTTP_204_NO_CONTENT)
 
-
-class PostSerializer(serializers.ModelSerializer):
+class TagSerializer(serializers.ModelSerializer):
   
   class Meta:
+    model = Tag
+    fields = ('id', 'name')
+    
+class PostSerializer(serializers.ModelSerializer):
+  
+  tags = TagSerializer(read_only=True, many=True)
+  class Meta:
     model = Post
-    fields = ('id', 'title', 'author', 'category', 'body', 'country', 'region', 'image', 'created_at')
+    fields = ('id', 'title', 'author', 'category', 'body', 'country', 'region', 'image', 'created_at', 'tags')
     depth = 1
