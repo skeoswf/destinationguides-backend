@@ -1,0 +1,51 @@
+[
+  {
+    "model": "destinationguides.tag",
+    "pk": 1,
+    "fields": {
+      "name": "Hiking"
+    }
+  },
+  {
+    "model": "destinationguides.tag",
+    "pk": 2,
+    "fields": {
+      "name": "Skiing"
+    }
+  },
+  {
+    "model": "destinationguides.tag",
+    "pk": 3,
+    "fields": {
+      "name": "Surfing"
+    }
+  },
+  {
+    "model": "destinationguides.tag",
+    "pk": 4,
+    "fields": {
+      "name": "Scuba Diving"
+    }
+  },
+  {
+    "model": "destinationguides.tag",
+    "pk": 5,
+    "fields": {
+      "name": "Shopping"
+    }
+  },
+  {
+    "model": "destinationguides.tag",
+    "pk": 6,
+    "fields": {
+      "name": "Nightlife"
+    }
+  },
+  {
+    "model": "destinationguides.tag",
+    "pk": 7,
+    "fields": {
+      "name": "Photography"
+    }
+  }
+]
