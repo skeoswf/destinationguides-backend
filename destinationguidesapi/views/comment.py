@@ -31,7 +31,7 @@ class CommentView(ViewSet):
       
     def create(self, request):
 
-      commenter = User.objects.get(uid=request.data["commenter"])
+      commenter = User.objects.get(pk=request.data["commenter"])
       post = Post.objects.get(pk=request.data["post"])
 
       comment = Comment.objects.create(
@@ -44,7 +44,7 @@ class CommentView(ViewSet):
   
     def update(self, request, pk):
       
-        commenter = User.objects.get(uid=request.data["commenter"])
+        commenter = User.objects.get(pk=request.data["commenter"])
         post = Post.objects.get(pk=request.data["post"])
     
         comment = Comment.objects.get(pk=pk)

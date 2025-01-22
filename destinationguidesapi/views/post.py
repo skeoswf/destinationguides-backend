@@ -44,7 +44,7 @@ class PostView(ViewSet):
     
     # GET THE TAGS FOR THE POSTS
     for post in posts:
-      tags = Tag.objects.filter(posttags__post_id=post)
+      tags = Tag.objects.filter(posttag__post_id=post)
       post.tags=tags.all()
     
     serializer = PostSerializer(posts, many=True)

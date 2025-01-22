@@ -46,7 +46,7 @@ class RegionView(ViewSet):
   
   def destroy(self, request, pk):
     
-    region  = region.objects.get(pk=pk)
+    region = Region.objects.get(pk=pk)
     
     region.delete()
     

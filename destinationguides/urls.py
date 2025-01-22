@@ -25,6 +25,7 @@ router.register(r'regions', RegionView, 'region')
 router.register(r'users', UserView, 'user')
 router.register(r'categories', CategoryView, 'category')
 router.register(r'comments', CommentView, 'comment')
+router.register(r'countries', CountryView, 'country')
 
 
 
