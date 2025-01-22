@@ -3,1592 +3,1592 @@
     "model": "destinationguidesapi.country",
     "pk": 1,
     "fields":  {
-      "country": "Afghanistan",
-      "region": "Asia"
+      "name": "Afghanistan",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 2,
     "fields": {
-      "country": "Albania",
-      "region": "Europe"
+      "name": "Albania",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 3,
     "fields": {
-      "country": "Algeria",
-      "region": "Africa"
+      "name": "Algeria",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 4,
     "fields": {
-      "country": "Andorra",
-      "region": "Europe"
+      "name": "Andorra",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 5,
     "fields": {
-      "country": "Angola",
-      "region": "Africa"
+      "name": "Angola",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 6,
     "fields": {
-      "country": "Antarctica",
-      "region": "Antarctica"
+      "name": "Antarctica",
+      "region": 2
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 7,
     "fields": {
-      "country": "Antigua and Barbuda",
-      "region": "Caribbean"
+      "name": "Antigua and Barbuda",
+      "region": 5
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 8,
     "fields": {
-      "country": "Argentina",
-      "region": "South America"
+      "name": "Argentina",
+      "region": 10
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 9,
     "fields": {
-      "country": "Armenia",
-      "region": "Asia"
+      "name": "Armenia",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 10,
     "fields": {
-      "country": "Australia",
-      "region": "Australia & the Pacific"
+      "name": "Australia",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 11,
     "fields": {
-      "country": "Austria",
-      "region": "Europe"
+      "name": "Austria",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 12,
     "fields": {
-      "country": "Azerbaijan",
-      "region": "Asia"
+      "name": "Azerbaijan",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 13,
     "fields": {
-      "country": "Bahamas",
-      "region": "Caribbean"
+      "name": "Bahamas",
+      "region": 5
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 14,
     "fields": {
-      "country": "Bahrain",
-      "region": "Middle East"
+      "name": "Bahrain",
+      "region": 8
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 15,
     "fields": {
-      "country": "Bangladesh",
-      "region": "Asia"
+      "name": "Bangladesh",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 16,
     "fields": {
-      "country": "Barbados",
-      "region": "Caribbean"
+      "name": "Barbados",
+      "region": 5
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 17,
     "fields": {
-      "country": "Belarus",
-      "region": "Europe"
+      "name": "Belarus",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 18,
     "fields": {
-      "country": "Belgium",
-      "region": "Europe"
+      "name": "Belgium",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 19,
     "fields": {
-      "country": "Belize",
-      "region": "Central America"
+      "name": "Belize",
+      "region": 6
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 20,
     "fields": {
-      "country": "Benin",
-      "region": "Africa"
+      "name": "Benin",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 21,
     "fields": {
-      "country": "Bhutan",
-      "region": "Asia"
+      "name": "Bhutan",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 22,
     "fields": {
-      "country": "Bolivia",
-      "region": "South America"
+      "name": "Bolivia",
+      "region": 10
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 23,
     "fields": {
-      "country": "Bosnia and Herzegovina",
-      "region": "Europe"
+      "name": "Bosnia and Herzegovina",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 24,
     "fields": {
-      "country": "Botswana",
-      "region": "Africa"
+      "name": "Botswana",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 25,
     "fields": {
-      "country": "Brazil",
-      "region": "South America"
+      "name": "Brazil",
+      "region": 10
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 26,
     "fields": {
-      "country": "Brunei",
-      "region": "Asia"
+      "name": "Brunei",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 27,
     "fields": {
-      "country": "Bulgaria",
-      "region": "Europe"
+      "name": "Bulgaria",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 28,
     "fields": {
-      "country": "Burkina Faso",
-      "region": "Africa"
+      "name": "Burkina Faso",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 29,
     "fields": {
-      "country": "Burundi",
-      "region": "Africa"
+      "name": "Burundi",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 30,
     "fields": {
-      "country": "Côte d'Ivoire",
-      "region": "Africa"
+      "name": "Côte d'Ivoire",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 31,
     "fields": {
-      "country": "Cabo Verde",
-      "region": "Africa"
+      "name": "Cabo Verde",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 32,
     "fields": {
-      "country": "Cambodia",
-      "region": "Asia"
+      "name": "Cambodia",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 33,
     "fields": {
-      "country": "Cameroon",
-      "region": "Africa"
+      "name": "Cameroon",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 34,
     "fields": {
-      "country": "Canada",
-      "region": "North America"
+      "name": "Canada",
+      "region": 9
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 35,
     "fields": {
-      "country": "Central African Republic",
-      "region": "Africa"
+      "name": "Central African Republic",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 36,
     "fields": {
-      "country": "Chad",
-      "region": "Africa"
+      "name": "Chad",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 37,
     "fields": {
-      "country": "Chile",
-      "region": "South America"
+      "name": "Chile",
+      "region": 10
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 38,
     "fields": {
-      "country": "China",
-      "region": "Asia"
+      "name": "China",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 39,
     "fields": {
-      "country": "Colombia",
-      "region": "South America"
+      "name": "Colombia",
+      "region": 10
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 40,
     "fields": {
-      "country": "Comoros",
-      "region": "Africa"
+      "name": "Comoros",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 41,
     "fields": {
-      "country": "Congo (Congo-Brazzaville)",
-      "region": "Africa"
+      "name": "Congo (Congo-Brazzaville)",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 42,
     "fields": {
-      "country": "Cook Islands",
-      "region": "Australia & the Pacific"
+      "name": "Cook Islands",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 43,
     "fields": {
-      "country": "Costa Rica",
-      "region": "Central America"
+      "name": "Costa Rica",
+      "region": 6
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 44,
     "fields": {
-      "country": "Croatia",
-      "region": "Europe"
+      "name": "Croatia",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 45,
     "fields": {
-      "country": "Cuba",
-      "region": "Caribbean"
+      "name": "Cuba",
+      "region": 5
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 46,
     "fields": {
-      "country": "Cyprus",
-      "region": "Europe"
+      "name": "Cyprus",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 47,
     "fields": {
-      "country": "Czechia (Czech Republic)",
-      "region": "Europe"
+      "name": "Czechia (Czech Republic)",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 48,
     "fields": {
-      "country": "Democratic Republic of the Congo",
-      "region": "Africa"
+      "name": "Democratic Republic of the Congo",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 49,
     "fields": {
-      "country": "Denmark",
-      "region": "Europe"
+      "name": "Denmark",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 50,
     "fields": {
-      "country": "Djibouti",
-      "region": "Africa"
+      "name": "Djibouti",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 51,
     "fields": {
-      "country": "Dominica",
-      "region": "Caribbean"
+      "name": "Dominica",
+      "region": 5
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 52,
     "fields": {
-      "country": "Dominican Republic",
-      "region": "Caribbean"
+      "name": "Dominican Republic",
+      "region": 5
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 53,
     "fields": {
-      "country": "Ecuador",
-      "region": "South America"
+      "name": "Ecuador",
+      "region": 10
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 54,
     "fields": {
-      "country": "Egypt",
-      "region": "Middle East"
+      "name": "Egypt",
+      "region": 8
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 55,
     "fields": {
-      "country": "El Salvador",
-      "region": "Central America"
+      "name": "El Salvador",
+      "region": 6
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 56,
     "fields": {
-      "country": "Equatorial Guinea",
-      "region": "Africa"
+      "name": "Equatorial Guinea",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 57,
     "fields": {
-      "country": "Eritrea",
-      "region": "Africa"
+      "name": "Eritrea",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 58,
     "fields": {
-      "country": "Estonia",
-      "region": "Europe"
+      "name": "Estonia",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 59,
     "fields": {
-      "country": "Eswatini (fmr. \"Swaziland\")",
-      "region": "Africa"
+      "name": "Eswatini (fmr. \"Swaziland\")",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 60,
     "fields": {
-      "country": "Ethiopia",
-      "region": "Africa"
+      "name": "Ethiopia",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 61,
     "fields": {
-      "country": "Fiji",
-      "region": "Australia & the Pacific"
+      "name": "Fiji",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 62,
     "fields": {
-      "country": "Finland",
-      "region": "Europe"
+      "name": "Finland",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 63,
     "fields": {
-      "country": "France",
-      "region": "Europe"
+      "name": "France",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 64,
     "fields": {
-      "country": "Gabon",
-      "region": "Africa"
+      "name": "Gabon",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 65,
     "fields": {
-      "country": "Gambia",
-      "region": "Africa"
+      "name": "Gambia",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 66,
     "fields": {
-      "country": "Georgia",
-      "region": "Asia"
+      "name": "Georgia",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 67,
     "fields": {
-      "country": "Germany",
-      "region": "Europe"
+      "name": "Germany",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 68,
     "fields": {
-      "country": "Ghana",
-      "region": "Africa"
+      "name": "Ghana",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 69,
     "fields": {
-      "country": "Greece",
-      "region": "Europe"
+      "name": "Greece",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 70,
     "fields": {
-      "country": "Grenada",
-      "region": "Caribbean"
+      "name": "Grenada",
+      "region": 5
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 71,
     "fields": {
-      "country": "Guatemala",
-      "region": "Central America"
+      "name": "Guatemala",
+      "region": 6
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 72,
     "fields": {
-      "country": "Guinea",
-      "region": "Africa"
+      "name": "Guinea",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 73,
     "fields": {
-      "country": "Guinea-Bissau",
-      "region": "Africa"
+      "name": "Guinea-Bissau",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 74,
     "fields": {
-      "country": "Guyana",
-      "region": "South America"
+      "name": "Guyana",
+      "region": 10
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 75,
     "fields": {
-      "country": "Haiti",
-      "region": "Caribbean"
+      "name": "Haiti",
+      "region": 5
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 76,
     "fields": {
-      "country": "Holy See",
-      "region": "Europe"
+      "name": "Holy See",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 77,
     "fields": {
-      "country": "Honduras",
-      "region": "Central America"
+      "name": "Honduras",
+      "region": 6
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 78,
     "fields": {
-      "country": "Hungary",
-      "region": "Europe"
+      "name": "Hungary",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 79,
     "fields": {
-      "country": "Iceland",
-      "region": "Europe"
+      "name": "Iceland",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 80,
     "fields": {
-      "country": "India",
-      "region": "Asia"
+      "name": "India",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 81,
     "fields": {
-      "country": "Indonesia",
-      "region": "Asia"
+      "name": "Indonesia",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 82,
     "fields": {
-      "country": "Iran",
-      "region": "Middle East"
+      "name": "Iran",
+      "region": 8
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 83,
     "fields": {
-      "country": "Iraq",
-      "region": "Middle East"
+      "name": "Iraq",
+      "region": 8
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 84,
     "fields": {
-      "country": "Ireland",
-      "region": "Europe"
+      "name": "Ireland",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 85,
     "fields": {
-      "country": "Israel",
-      "region": "Middle East"
+      "name": "Israel",
+      "region": 8
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 86,
     "fields": {
-      "country": "Italy",
-      "region": "Europe"
+      "name": "Italy",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 87,
     "fields": {
-      "country": "Jamaica",
-      "region": "Caribbean"
+      "name": "Jamaica",
+      "region": 5
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 88,
     "fields": {
-      "country": "Japan",
-      "region": "Asia"
+      "name": "Japan",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 89,
     "fields": {
-      "country": "Jordan",
-      "region": "Middle East"
+      "name": "Jordan",
+      "region": 8
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 90,
     "fields": {
-      "country": "Kazakhstan",
-      "region": "Asia"
+      "name": "Kazakhstan",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 91,
     "fields": {
-      "country": "Kenya",
-      "region": "Africa"
+      "name": "Kenya",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 92,
     "fields": {
-      "country": "Kiribati",
-      "region": "Australia & the Pacific"
+      "name": "Kiribati",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 93,
     "fields": {
-      "country": "Kuwait",
-      "region": "Middle East"
+      "name": "Kuwait",
+      "region": 8
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 94,
     "fields": {
-      "country": "Kyrgyzstan",
-      "region": "Asia"
+      "name": "Kyrgyzstan",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 95,
     "fields": {
-      "country": "Laos",
-      "region": "Asia"
+      "name": "Laos",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 96,
     "fields": {
-      "country": "Latvia",
-      "region": "Europe"
+      "name": "Latvia",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 97,
     "fields": {
-      "country": "Lebanon",
-      "region": "Middle East"
+      "name": "Lebanon",
+      "region": 8
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 98,
     "fields": {
-      "country": "Lesotho",
-      "region": "Africa"
+      "name": "Lesotho",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 99,
     "fields": {
-      "country": "Liberia",
-      "region": "Africa"
+      "name": "Liberia",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 100,
     "fields": {
-      "country": "Libya",
-      "region": "Africa"
+      "name": "Libya",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 101,
     "fields": {
-      "country": "Liechtenstein",
-      "region": "Europe"
+      "name": "Liechtenstein",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 102,
     "fields": {
-      "country": "Lithuania",
-      "region": "Europe"
+      "name": "Lithuania",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 103,
     "fields": {
-      "country": "Luxembourg",
-      "region": "Europe"
+      "name": "Luxembourg",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 104,
     "fields": {
-      "country": "Madagascar",
-      "region": "Africa"
+      "name": "Madagascar",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 105,
     "fields": {
-      "country": "Malawi",
-      "region": "Africa"
+      "name": "Malawi",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 106,
     "fields": {
-      "country": "Malaysia",
-      "region": "Asia"
+      "name": "Malaysia",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 107,
     "fields": {
-      "country": "Maldives",
-      "region": "Asia"
+      "name": "Maldives",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 108,
     "fields": {
-      "country": "Mali",
-      "region": "Africa"
+      "name": "Mali",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 109,
     "fields": {
-      "country": "Malta",
-      "region": "Europe"
+      "name": "Malta",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 110,
     "fields": {
-      "country": "Marshall Islands",
-      "region": "Australia & the Pacific"
+      "name": "Marshall Islands",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 111,
     "fields": {
-      "country": "Mauritania",
-      "region": "Africa"
+      "name": "Mauritania",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 112,
     "fields": {
-      "country": "Mauritius",
-      "region": "Africa"
+      "name": "Mauritius",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 113,
     "fields": {
-      "country": "Mexico",
-      "region": "Central America"
+      "name": "Mexico",
+      "region": 6
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 114,
     "fields": {
-      "country": "Micronesia",
-      "region": "Australia & the Pacific"
+      "name": "Micronesia",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 115,
     "fields": {
-      "country": "Moldova",
-      "region": "Europe"
+      "name": "Moldova",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 116,
     "fields": {
-      "country": "Monaco",
-      "region": "Europe"
+      "name": "Monaco",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 117,
     "fields": {
-      "country": "Mongolia",
-      "region": "Asia"
+      "name": "Mongolia",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 118,
     "fields": {
-      "country": "Montenegro",
-      "region": "Europe"
+      "name": "Montenegro",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 119,
     "fields": {
-      "country": "Morocco",
-      "region": "Africa"
+      "name": "Morocco",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 120,
     "fields": {
-      "country": "Mozambique",
-      "region": "Africa"
+      "name": "Mozambique",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 121,
     "fields": {
-      "country": "Myanmar (formerly Burma)",
-      "region": "Asia"
+      "name": "Myanmar (formerly Burma)",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 122,
     "fields": {
-      "country": "Namibia",
-      "region": "Africa"
+      "name": "Namibia",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 123,
     "fields": {
-      "country": "Nauru",
-      "region": "Australia & the Pacific"
+      "name": "Nauru",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 124,
     "fields": {
-      "country": "Nepal",
-      "region": "Asia"
+      "name": "Nepal",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 125,
     "fields": {
-      "country": "Netherlands",
-      "region": "Europe"
+      "name": "Netherlands",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 126,
     "fields": {
-      "country": "New Zealand",
-      "region": "Australia & the Pacific"
+      "name": "New Zealand",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 127,
     "fields": {
-      "country": "Nicaragua",
-      "region": "Central America"
+      "name": "Nicaragua",
+      "region": 6
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 128,
     "fields": {
-      "country": "Niger",
-      "region": "Africa"
+      "name": "Niger",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 129,
     "fields": {
-      "country": "Nigeria",
-      "region": "Africa"
+      "name": "Nigeria",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 130,
     "fields": {
-      "country": "Niue",
-      "region": "Australia & the Pacific"
+      "name": "Niue",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 131,
     "fields": {
-      "country": "North Korea",
-      "region": "Asia"
+      "name": "North Korea",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 132,
     "fields": {
-      "country": "North Macedonia",
-      "region": "Europe"
+      "name": "North Macedonia",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 133,
     "fields": {
-      "country": "Norway",
-      "region": "Europe"
+      "name": "Norway",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 134,
     "fields": {
-      "country": "Oman",
-      "region": "Middle East"
+      "name": "Oman",
+      "region": 8
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 135,
     "fields": {
-      "country": "Pakistan",
-      "region": "Asia"
+      "name": "Pakistan",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 136,
     "fields": {
-      "country": "Palau",
-      "region": "Australia & the Pacific"
+      "name": "Palau",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 137,
     "fields": {
-      "country": "Palestine State",
-      "region": "Asia"
+      "name": "Palestine State",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 138,
     "fields": {
-      "country": "Panama",
-      "region": "Central America"
+      "name": "Panama",
+      "region": 6
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 139,
     "fields": {
-      "country": "Papua New Guinea",
-      "region": "Australia & the Pacific"
+      "name": "Papua New Guinea",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 140,
     "fields": {
-      "country": "Paraguay",
-      "region": "South America"
+      "name": "Paraguay",
+      "region": 10
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 141,
     "fields": {
-      "country": "Peru",
-      "region": "South America"
+      "name": "Peru",
+      "region": 10
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 142,
     "fields": {
-      "country": "Philippines",
-      "region": "Asia"
+      "name": "Philippines",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 143,
     "fields": {
-      "country": "Poland",
-      "region": "Europe"
+      "name": "Poland",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 144,
     "fields": {
-      "country": "Portugal",
-      "region": "Europe"
+      "name": "Portugal",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 145,
     "fields": {
-      "country": "Qatar",
-      "region": "Middle East"
+      "name": "Qatar",
+      "region": 8
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 146,
     "fields": {
-      "country": "Romania",
-      "region": "Europe"
+      "name": "Romania",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 147,
     "fields": {
-      "country": "Russia",
-      "region": "Europe"
+      "name": "Russia",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 148,
     "fields": {
-      "country": "Rwanda",
-      "region": "Africa"
+      "name": "Rwanda",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 149,
     "fields": {
-      "country": "Saint Kitts and Nevis",
-      "region": "Caribbean"
+      "name": "Saint Kitts and Nevis",
+      "region": 5
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 150,
     "fields": {
-      "country": "Saint Lucia",
-      "region": "Caribbean"
+      "name": "Saint Lucia",
+      "region": 5
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 151,
     "fields": {
-      "country": "Saint Vincent and the Grenadines",
-      "region": "Caribbean"
+      "name": "Saint Vincent and the Grenadines",
+      "region": 5
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 152,
     "fields": {
-      "country": "Samoa",
-      "region": "Australia & the Pacific"
+      "name": "Samoa",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 153,
     "fields": {
-      "country": "San Marino",
-      "region": "Europe"
+      "name": "San Marino",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 154,
     "fields": {
-      "country": "Sao Tome and Principe",
-      "region": "Africa"
+      "name": "Sao Tome and Principe",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 155,
     "fields": {
-      "country": "Saudi Arabia",
-      "region": "Middle East"
+      "name": "Saudi Arabia",
+      "region": 8
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 156,
     "fields": {
-      "country": "Senegal",
-      "region": "Africa"
+      "name": "Senegal",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 157,
     "fields": {
-      "country": "Serbia",
-      "region": "Europe"
+      "name": "Serbia",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 158,
     "fields": {
-      "country": "Seychelles",
-      "region": "Africa"
+      "name": "Seychelles",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 159,
     "fields": {
-      "country": "Sierra Leone",
-      "region": "Africa"
+      "name": "Sierra Leone",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 160,
     "fields": {
-      "country": "Singapore",
-      "region": "Asia"
+      "name": "Singapore",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 161,
     "fields": {
-      "country": "Slovakia",
-      "region": "Europe"
+      "name": "Slovakia",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 162,
     "fields": {
-      "country": "Slovenia",
-      "region": "Europe"
+      "name": "Slovenia",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 163,
     "fields": {
-      "country": "Solomon Islands",
-      "region": "Australia & the Pacific"
+      "name": "Solomon Islands",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 164,
     "fields": {
-      "country": "Somalia",
-      "region": "Africa"
+      "name": "Somalia",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 165,
     "fields": {
-      "country": "South Africa",
-      "region": "Africa"
+      "name": "South Africa",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 166,
     "fields": {
-      "country": "South Korea",
-      "region": "Asia"
+      "name": "South Korea",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 167,
     "fields": {
-      "country": "South Sudan",
-      "region": "Africa"
+      "name": "South Sudan",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 168,
     "fields": {
-      "country": "Spain",
-      "region": "Europe"
+      "name": "Spain",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 169,
     "fields": {
-      "country": "Sri Lanka",
-      "region": "Asia"
+      "name": "Sri Lanka",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 170,
     "fields": {
-      "country": "Sudan",
-      "region": "Africa"
+      "name": "Sudan",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 171,
     "fields": {
-      "country": "Suriname",
-      "region": "South America"
+      "name": "Suriname",
+      "region": 10
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 172,
     "fields": {
-      "country": "Sweden",
-      "region": "Europe"
+      "name": "Sweden",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 173,
     "fields": {
-      "country": "Switzerland",
-      "region": "Europe"
+      "name": "Switzerland",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 174,
     "fields": {
-      "country": "Syria",
-      "region": "Middle East"
+      "name": "Syria",
+      "region": 8
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 175,
     "fields": {
-      "country": "Taiwan",
-      "region": "Asia"
+      "name": "Taiwan",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 176,
     "fields": {
-      "country": "Tajikistan",
-      "region": "Asia"
+      "name": "Tajikistan",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 177,
     "fields": {
-      "country": "Tanzania",
-      "region": "Africa"
+      "name": "Tanzania",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 178,
     "fields": {
-      "country": "Thailand",
-      "region": "Asia"
+      "name": "Thailand",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 179,
     "fields": {
-      "country": "Timor-Leste",
-      "region": "Asia"
+      "name": "Timor-Leste",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 180,
     "fields": {
-      "country": "Togo",
-      "region": "Africa"
+      "name": "Togo",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 181,
     "fields": {
-      "country": "Tonga",
-      "region": "Australia & the Pacific"
+      "name": "Tonga",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 182,
     "fields": {
-      "country": "Trinidad and Tobago",
-      "region": "Caribbean"
+      "name": "Trinidad and Tobago",
+      "region": 5
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 183,
     "fields": {
-      "country": "Tunisia",
-      "region": "Africa"
+      "name": "Tunisia",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 184,
     "fields": {
-      "country": "Turkey",
-      "region": "Asia"
+      "name": "Turkey",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 185,
     "fields": {
-      "country": "Turkmenistan",
-      "region": "Asia"
+      "name": "Turkmenistan",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 186,
     "fields": {
-      "country": "Tuvalu",
-      "region": "Australia & the Pacific"
+      "name": "Tuvalu",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 187,
     "fields": {
-      "country": "Uganda",
-      "region": "Africa"
+      "name": "Uganda",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 188,
     "fields": {
-      "country": "Ukraine",
-      "region": "Europe"
+      "name": "Ukraine",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 189,
     "fields": {
-      "country": "United Arab Emirates",
-      "region": "Middle East"
+      "name": "United Arab Emirates",
+      "region": 8
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 190,
     "fields": {
-      "country": "United Kingdom",
-      "region": "Europe"
+      "name": "United Kingdom",
+      "region": 7
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 191,
     "fields": {
-      "country": "United States of America",
-      "region": "North America"
+      "name": "United States of America",
+      "region": 9
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 192,
     "fields": {
-      "country": "Uruguay",
-      "region": "South America"
+      "name": "Uruguay",
+      "region": 10
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 193,
     "fields": {
-      "country": "Uzbekistan",
-      "region": "Asia"
+      "name": "Uzbekistan",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 194,
     "fields": {
-      "country": "Vanuatu",
-      "region": "Australia & the Pacific"
+      "name": "Vanuatu",
+      "region": 4
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 195,
     "fields": {
-      "country": "Venezuela",
-      "region": "South America"
+      "name": "Venezuela",
+      "region": 10
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 196,
     "fields": {
-      "country": "Vietnam",
-      "region": "Asia"
+      "name": "Vietnam",
+      "region": 3
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 197,
     "fields": {
-      "country": "Yemen",
-      "region": "Middle East"
+      "name": "Yemen",
+      "region": 8
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 198,
     "fields": {
-      "country": "Zambia",
-      "region": "Africa"
+      "name": "Zambia",
+      "region": 1
     }
   },
   {
     "model": "destinationguidesapi.country",
     "pk": 199,
     "fields": {
-      "country": "Zimbabwe",
-      "region": "Africa"
+      "name": "Zimbabwe",
+      "region": 1
     }
   }
 ]

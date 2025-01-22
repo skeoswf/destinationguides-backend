@@ -1,0 +1,58 @@
+[
+  {
+    "model": "destinationguidesapi.post",
+    "pk": 1,
+    "fields":  {
+      "title": "Things to do in Banff, Alberta, Canada",
+      "author": 6,
+      "category": 1,
+      "body": "Banff is a resort town in the province of Alberta, located within Banff National Park. The peaks of Mt. Rundle and Mt. Cascade, part of the Rocky Mountains, dominate its skyline. On Banff Avenue, the main thoroughfare, boutiques and restaurants mix with château-style hotels and souvenir shops. The surrounding 6,500 square kilometres of parkland are home to wildlife including elk and grizzly bears.",
+      "country": 34,
+      "region": 9,
+      "image": "https://cdn.audleytravel.com/3980/2847/79/1314674-moraine-lake-banff-national-park-alberta.jpg",
+      "created_at": "2025-01-21 20:17:43"
+    }
+  },
+  {
+    "model": "destinationguidesapi.post",
+    "pk": 2,
+    "fields":  {
+      "title": "Best Restaurants in Nashville, TN",
+      "author": 1,
+      "category": 3,
+      "body": "Chili's, Cracker Barrel, and Bourbon Steak",
+      "country": 191,
+      "region": 9,
+      "image": "https://assets.site-static.com/blogphotos/2147/9721-capturing-the-beauty-nashville-s-best-skyline-views.jpg",
+      "created_at": "2025-01-21 20:26:12"
+    }
+  },
+  {
+    "model": "destinationguidesapi.post",
+    "pk": 3,
+    "fields":  {
+      "title": "Swim with Pigs in Nassau, Bahamas",
+      "author": 3,
+      "category": 3,
+      "body": "This is one experience you simply can’t miss while you’re here. Wondering how the pigs got to Pig Beach? We don't know for sure. Big Major Cay is uninhabited and the pigs are not native to the island. Some say they were left by a group of sailors, who planned to come back and cook them. Or that the pigs swam over from a shipwreck nearby. Wherever they came from, there are now about 20 pigs and piglets living the easy life, with daily visits from Bahamians and tourists. When you visit, be sure to get a selfie with the #swimmingpigs—they’re even cuter in person!",
+      "country": 13,
+      "region": 5,
+      "image": "https://tempo.cdn.tambourine.com/windsong/media/swimming-pigs-header-5f2ad6a7a7fc8.jpg",
+      "created_at": "2025-01-21 20:38:53"
+    }
+  },
+  {
+    "model": "destinationguidesapi.post",
+    "pk": 4,
+    "fields":  {
+      "title": "Edinburgh, Scotland Ghost Tour",
+      "author": 5,
+      "category": 9,
+      "body": "Your ghost tour begins above ground at the Mercat Cross, before making our way through the city’s narrow cobble-stone streets where murders, misdeeds and mischief took place. You’ll learn about bloody plots that led to treason and torture – as well as secret lives that led to horrific deaths and tormented souls.",
+      "country": 190,
+      "region": 7,
+      "image": "https://www.mercattours.com/mediaLibrary/images/english/edinburgh-underground-ghost-tour.jpg",
+      "created_at": "2025-01-21 20:43:08"
+    }
+  }
+]
