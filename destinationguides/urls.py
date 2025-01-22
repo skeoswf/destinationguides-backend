@@ -17,12 +17,13 @@ from django.contrib import admin
 from django.urls import path
 from django.conf.urls import include
 from rest_framework import routers
-from destinationguidesapi.views import PostView, RegionView, CountryView, UserView
+from destinationguidesapi.views import PostView, RegionView, CountryView, UserView, CategoryView
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'posts', PostView, 'post')
 router.register(r'regions', RegionView, 'region')
 router.register(r'users', UserView, 'user')
+router.register(r'categories', CategoryView, 'category')
 
 
 urlpatterns = [
