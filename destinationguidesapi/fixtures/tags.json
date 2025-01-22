@@ -1,48 +1,48 @@
 [
   {
-    "model": "destinationguides.tag",
+    "model": "destinationguidesapi.tag",
     "pk": 1,
     "fields": {
       "name": "Hiking"
     }
   },
   {
-    "model": "destinationguides.tag",
+    "model": "destinationguidesapi.tag",
     "pk": 2,
     "fields": {
       "name": "Skiing"
     }
   },
   {
-    "model": "destinationguides.tag",
+    "model": "destinationguidesapi.tag",
     "pk": 3,
     "fields": {
       "name": "Surfing"
     }
   },
   {
-    "model": "destinationguides.tag",
+    "model": "destinationguidesapi.tag",
     "pk": 4,
     "fields": {
       "name": "Scuba Diving"
     }
   },
   {
-    "model": "destinationguides.tag",
+    "model": "destinationguidesapi.tag",
     "pk": 5,
     "fields": {
       "name": "Shopping"
     }
   },
   {
-    "model": "destinationguides.tag",
+    "model": "destinationguidesapi.tag",
     "pk": 6,
     "fields": {
       "name": "Nightlife"
     }
   },
   {
-    "model": "destinationguides.tag",
+    "model": "destinationguidesapi.tag",
     "pk": 7,
     "fields": {
       "name": "Photography"
