@@ -52,7 +52,7 @@ class CountryView(ViewSet):
   
   def destroy(self, request, pk):
     
-    country  = country.objects.get(pk=pk)
+    country = Country.objects.get(pk=pk)
     
     country.delete()
     
