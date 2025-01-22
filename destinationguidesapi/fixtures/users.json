@@ -1,0 +1,67 @@
+[
+  {
+    "model": "destinationguidesapi.user",
+    "pk": 1,
+    "fields": {
+      "username": "iLOVEtraveling666",
+      "first_name": "super",
+      "last_name": "traveler",
+      "bio": "hello my name is super traveling i love traveling im like really good at it i would even say im super at it i am one of the admins on this site",
+      "uid": "fakeuid1",
+      "is_admin": true,
+      "is_author": true
+    }
+  },
+  {
+    "model": "destinationguidesapi.user",
+    "pk": 2,
+    "fields": {
+      "username": "sometimesiwonder",
+      "first_name": "chad",
+      "last_name": "yearning",
+      "bio": "hello my name is chad i like to yearn. i especially enjoy yearning on my travels.",
+      "uid": "fakeuid2",
+      "is_admin": false,
+      "is_author": false
+    }
+  },
+  {
+    "model": "destinationguidesapi.user",
+    "pk": 3,
+    "fields": {
+      "username": "mrmanager",
+      "first_name": "mr",
+      "last_name": "manager",
+      "bio": "hey man. just call me manager.",
+      "uid": "fakeuid3",
+      "is_admin": true,
+      "is_author": true
+    }
+  },
+  {
+    "model": "destinationguidesapi.user",
+    "pk": 4,
+    "fields": {
+      "username": "apedestrian420",
+      "first_name": "joe",
+      "last_name": "walker",
+      "bio": "Joe Walker? You cannot be serious? When I come out of this accursed database, I will have my way.",
+      "uid": "fakeuid4",
+      "is_admin": false,
+      "is_author": false
+    }
+  },
+  {
+    "model": "destinationguidesapi.user",
+    "pk": 5,
+    "fields": {
+      "username": "digitalangel13",
+      "first_name": "protector",
+      "last_name": "walker",
+      "bio": "Don't worry about Joe Walker! At any rate, this is such a lovely site.",
+      "uid": "fakeuid5",
+      "is_admin": false,
+      "is_author": false
+    }
+  }
+]
