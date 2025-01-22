@@ -8,8 +8,8 @@
       "last_name": "traveler",
       "bio": "hello my name is super traveling i love traveling im like really good at it i would even say im super at it i am one of the admins on this site",
       "uid": "fakeuid1",
-      "is_admin": 1,
-      "is_author": 1
+      "is_admin": true,
+      "is_author": true
     }
   },
   {
@@ -21,8 +21,8 @@
       "last_name": "yearning",
       "bio": "hello my name is chad i like to yearn. i especially enjoy yearning on my travels.",
       "uid": "fakeuid2",
-      "is_admin": 0,
-      "is_author": 0
+      "is_admin": false,
+      "is_author": false
     }
   },
   {
@@ -34,8 +34,8 @@
       "last_name": "manager",
       "bio": "hey man. just call me manager.",
       "uid": "fakeuid3",
-      "is_admin": 1,
-      "is_author": 1
+      "is_admin": true,
+      "is_author": true
     }
   },
   {
@@ -47,8 +47,8 @@
       "last_name": "walker",
       "bio": "Joe Walker? You cannot be serious? When I come out of this accursed database, I will have my way.",
       "uid": "fakeuid4",
-      "is_admin": 0,
-      "is_author": 0
+      "is_admin": false,
+      "is_author": false
     }
   },
   {
@@ -60,8 +60,8 @@
       "last_name": "walker",
       "bio": "Don't worry about Joe Walker! At any rate, this is such a lovely site.",
       "uid": "fakeuid5",
-      "is_admin": 0,
-      "is_author": 0
+      "is_admin": false,
+      "is_author": false
     }
   },
   {
@@ -73,8 +73,8 @@
       "last_name": "Keener",
       "bio": "Cody Keener is an American novelist, short-story writer and journalist. Known for an economical, understated style that influenced later 20th-century writers, he has been romanticized for his adventurous lifestyle and outspoken, blunt public image. Some of his seven novels, six short-story collections and two non-fiction works have become classics of American literature, and he was awarded the 1954 Nobel Prize in Literature.",
       "uid": "89sh-8sdkhgw8ehsd8dgs",
-      "is_admin": 0,
-      "is_author": 1
+      "is_admin": false,
+      "is_author": false
     }
   }
 ]
