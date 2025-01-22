@@ -1,0 +1,65 @@
+[
+  {
+    "model": "destinationguidesapi.comment",
+    "pk": 1,
+    "fields": {
+      "post": 2,
+      "commenter": 6,
+      "text": "i love all of these restaurants so much. GOD cracker barrel gets me going mmmm"
+    }
+  },
+  {
+    "model": "destinationguidesapi.comment",
+    "pk": 2,
+    "fields": {
+      "post": 1,
+      "commenter": 3,
+      "text": "mrmanager had a wonderful time at banff"
+    }
+  },
+  {
+    "model": "destinationguidesapi.comment",
+    "pk": 3,
+    "fields": {
+      "post": 3,
+      "commenter": 5,
+      "text": "The pigs were so cute! #swimmingpigs"
+    }
+  },
+  {
+    "model": "destinationguidesapi.comment",
+    "pk": 4,
+    "fields": {
+      "post": 2,
+      "commenter": 3,
+      "text": "uhmmm i just wanted to comment for fun idk anything lolll"
+    }
+  },
+  {
+    "model": "destinationguidesapi.comment",
+    "pk": 5,
+    "fields": {
+      "post": 4,
+      "commenter": 2,
+      "text": "the ghosts yearn, not unlike the way i do. i am chad yearning."
+    }
+  },
+  {
+    "model": "destinationguidesapi.comment",
+    "pk": 6,
+    "fields": {
+      "post": 2,
+      "commenter": 4,
+      "text": "I absolutely despise all of these... these establishments. Hellish. Despicable. Inedible. Awful in every context, by all and any miniscule comphrensible scale. Heinous."
+    }
+  },
+  {
+    "model": "destinationguidesapi.comment",
+    "pk": 7,
+    "fields": {
+      "post": 1,
+      "commenter": 6,
+      "text": "ohhhmygod i hadsuch a good time here it was so much thjepark was amazingthe boutiques were a DELIGHT and all the wildlifeee i felt so in love and in tune with nature and myself i love you banff forever and always"
+    }
+  }
+]
