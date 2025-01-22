@@ -3,3 +3,4 @@ from .region import Region
 from .country import Country
 from .post import Post
 from .post_tag import PostTag
+from .user import User
