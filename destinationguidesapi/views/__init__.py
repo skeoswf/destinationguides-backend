@@ -4,3 +4,5 @@ from .country import CountryView
 from .user import UserView
 from .category import CategoryView
 from .comment import CommentView
+from .tag import TagView
+from .post_tag import PostTagView
