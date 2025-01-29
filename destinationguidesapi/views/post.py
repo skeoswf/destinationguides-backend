@@ -28,7 +28,7 @@ class PostView(ViewSet):
     ## GET THE REGION FROM THE REQUEST PARAMS
     region = request.query_params.get('region', None)
     
-    posts = Post.objects.all()
+    posts = Post.objects.all().order_by('-created_at')
     
     if category is not None:
       posts = posts.filter(category=category)
