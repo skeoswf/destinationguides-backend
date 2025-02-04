@@ -22,11 +22,13 @@ class PostView(ViewSet):
     ## GET THE CATEGORY FROM THE REQUEST PARAMS
     category = request.query_params.get('category', None)
     ## GET THE AUTHOR FROM THE REQUEST PARAMS
-    author = request.query_params.get('author', None)
+    author_id = request.query_params.get('author', None)
     ## GET THE COUNTRY FROM THE REQUEST PARAMS
     country = request.query_params.get('country', None)
     ## GET THE REGION FROM THE REQUEST PARAMS
     region = request.query_params.get('region', None)
+    
+    author = User.objects.get(uid=author_id)
     
     posts = Post.objects.all()
     
