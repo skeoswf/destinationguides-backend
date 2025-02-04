@@ -28,14 +28,13 @@ class PostView(ViewSet):
     ## GET THE REGION FROM THE REQUEST PARAMS
     region = request.query_params.get('region', None)
     
-    author = User.objects.get(uid=author_id)
-    
     posts = Post.objects.all()
     
     if category is not None:
       posts = posts.filter(category=category)
       
-    if author is not None:
+    if author_id is not None:
+      author = User.objects.get(uid=author_id)
       posts = posts.filter(author=author)
       
     if country is not None:
