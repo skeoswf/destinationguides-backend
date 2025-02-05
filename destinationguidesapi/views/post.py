@@ -2,7 +2,7 @@ from django.http import HttpResponseServerError
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
-from destinationguidesapi.models import Post, User, Category, Country, Region, Tag
+from destinationguidesapi.models import Post, User, Category, Country, Region, Tag, PostTag
 
 class PostView(ViewSet):
   
@@ -53,8 +53,7 @@ class PostView(ViewSet):
   
   def create(self, request):
     
-    ## may need to update pk to uid depending on what FE does
-    author = User.objects.get(pk=request.data["author"])
+    author = User.objects.get(uid=request.data["author"])
     category = Category.objects.get(pk=request.data["category"])
     country = Country.objects.get(pk=request.data["country"])
     region = Region.objects.get(pk=request.data["region"])
@@ -70,12 +69,20 @@ class PostView(ViewSet):
       ## created_at will automatically be set to current date and time?
     )
     
+    ## loop through all of the tags with the post and create a postTag for each one
+    for tag_id in request.data["tags"]:
+      tag = Tag.objects.get(pk=tag_id)
+      PostTag.objects.create(
+        post=post,
+        tag=tag
+      )
+    
     serializer = PostSerializer(post)
     return Response(serializer.data, status=status.HTTP_201_CREATED)
   
   def update(self, request, pk):
     
-    author = User.objects.get(pk=request.data["author"])
+    author = User.objects.get(uid=request.data["author"])
     category = Category.objects.get(pk=request.data["category"])
     country = Country.objects.get(pk=request.data["country"])
     region = Region.objects.get(pk=request.data["region"])
@@ -91,7 +98,20 @@ class PostView(ViewSet):
     post.region=region
     post.image=request.data["image"]
     
+    # delete all of the existing postTags
+    post_tags = PostTag.objects.filter(post=post.id)
+    for tag in post_tags:
+      tag.delete()
+    
     post.save()
+    
+    # create new postTags
+    for tag_id in request.data["tags"]:
+      tag = Tag.objects.get(pk=tag_id)
+      PostTag.objects.create(
+        post=post,
+        tag=tag
+      )
     
     serializer = PostSerializer(post)
     return Response(serializer.data, status=status.HTTP_200_OK)
