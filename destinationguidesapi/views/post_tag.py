@@ -59,4 +59,4 @@ class PostTagSerializer(serializers.ModelSerializer):
             'post',
             'tag'
         )
-        depth = 1
+        # depth = 1

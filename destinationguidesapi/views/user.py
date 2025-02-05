@@ -16,8 +16,13 @@ class UserView(ViewSet):
         return Response({'message': ex.args[0]}, status=status.HTTP_404_NOT_FOUND)
     
   def list(self, request):
-    
+      
+      uid = request.query_params.get('uid', None)
+          
       users = User.objects.all()
+      
+      if uid is not None:
+        users = users.filter(uid=uid)
 
       serializer = UserSerializer(users, many=True)
       return Response(serializer.data)
