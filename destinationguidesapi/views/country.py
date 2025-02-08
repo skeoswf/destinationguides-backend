@@ -18,7 +18,13 @@ class CountryView(ViewSet):
   
   def list(self, request):
     
+    ## GET THE REGION FROM THE REQUEST PARAMS
+    region = request.query_params.get('region', None)
+    
     countrys = Country.objects.all()
+    
+    if region is not None:
+      countrys = countrys.filter(region=region)
     
     serializer = CountrySerializer(countrys, many=True)
     return Response(serializer.data)
