@@ -15,7 +15,6 @@ class Post(models.Model):
   region = models.ForeignKey(Region, on_delete=models.CASCADE)
   image = models.URLField()
   created_at = models.DateTimeField(auto_now_add=True)
-  tags = models.ManyToManyField(Tag, through='PostTag', related_name="posts")
   
   class Meta:
     ordering = ("-created_at", "region", "country")

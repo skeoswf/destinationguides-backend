@@ -11,6 +11,9 @@ class PostView(ViewSet):
     try: 
       post = Post.objects.get(pk=pk)
       
+      tags = Tag.objects.filter(posttag__post_id=post)
+      post.tags=tags
+      
       serializer = PostSerializer(post)
       return Response(serializer.data)
     
@@ -46,7 +49,7 @@ class PostView(ViewSet):
     # GET THE TAGS FOR THE POSTS
     for post in posts:
       tags = Tag.objects.filter(posttag__post_id=post)
-      post.tags=tags.all()
+      post.tags=tags
     
     serializer = PostSerializer(posts, many=True)
     return Response(serializer.data)
@@ -99,9 +102,9 @@ class PostView(ViewSet):
     post.image=request.data["image"]
     
     # delete all of the existing postTags
-    post_tags = PostTag.objects.filter(post=post.id)
-    for tag in post_tags:
-      tag.delete()
+    post_tags = PostTag.objects.filter(post=post)
+    for pt in post_tags:
+      pt.delete()
     
     post.save()
     
@@ -112,6 +115,9 @@ class PostView(ViewSet):
         post=post,
         tag=tag
       )
+      
+    tags = Tag.objects.filter(posttag__post_id=post)
+    post.tags=tags
     
     serializer = PostSerializer(post)
     return Response(serializer.data, status=status.HTTP_200_OK)
